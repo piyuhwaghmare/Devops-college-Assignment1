@@ -3,7 +3,7 @@
 ## Student Details
 * **Name:** Piyush Rajendra Waghmare
 * **PRN No:** 123B1B284
-* **Division:** D4
+* **Division:** (Division-D) D4
 * **Subject:** Devops Laboratory
 
 ## Repository Description
