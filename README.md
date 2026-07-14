@@ -23,4 +23,4 @@ This repository contains all previous FSDL practical assignments and a hosted do
 * **GitHub Repository:** [https://github.com/piyuhwaghmare/Devops-college-Assignment1](https://github.com/piyuhwaghmare/Devops-college-Assignment1)
 
 ## Technologies Used
-Git, GitHub, HTML, CSS, JavaScript, GitHub Pages
+Git, GitHub, GitHub Pages
